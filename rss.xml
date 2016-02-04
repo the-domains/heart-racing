@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[heart.racing]]></title>
+        <description><![CDATA[heart.racing]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 04 Feb 2016 16:26:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Us]]></title>
+            <description><![CDATA[<article><h1>About Us</h1><p>We’re glad you’re here.</p></article>]]></description>
+            <link>undefinedabout-us/index.html</link>
+            <guid isPermaLink="false">61463e8a-4db7-4bdd-8733-ff0c74be015e</guid>
+            <pubDate>Thu, 04 Feb 2016 16:25:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
